@@ -1,4 +1,4 @@
-A fun way to look at your internet traffic!
+
 With complete lockdown going on in India, everything including mail services has been closed. 
 No new PCB projects, no new components, nothing! 
 So to overcome the boredom and to keep myself busy, I decided to make something from the parts which I already have at home. 
